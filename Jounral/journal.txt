@@ -7,11 +7,15 @@ Week 1
 For this week, I used AI to help me with my Week 1 Exercise. 
 The focus was on basic programming concepts like variables, strings, arithmetic, and boolean expressions.
 I asked AI to explain why `input()` prints the prompt on the screen, and it helped me understand that it is just waiting for user input.
-I learned how to format titles and authors using f-strings with width specifiers so everything lines up neatly.
-AI gave me clear examples and short explanations, but I still typed and ran the code myself in Jupyter Notebook to make sure I understood. 
+I learned how to format titles and authors using f-strings with width specifiers so everything lines up neatly. AI gave me clear examples and short explanations, but I still typed and ran the code myself in Jupyter Notebook to make sure I understood. 
 This made the exercises easier and less confusing, while still giving me practice with the basics.
 
 Week 2 
 I asked AI about data visualization basics, since I wanted to understand how to display information more clearly.
 AI explained how to take raw lists (like titles, authors, and availability) and turn them into more readable tables or charts. 
 For example, it showed me how to count how many books were checked out and then create a simple bar chart.
+
+Week 3 
+This week I used AI to help me with my INST326 work on functions and modules. 
+It explained why splitting code into modules makes programs easier to organize and avoid duplication.
+I also used AI for my R script assignment. It showed me how to add group names, comments, and a conclusion so the file matches the rubric.
