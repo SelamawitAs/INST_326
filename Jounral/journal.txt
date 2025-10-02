@@ -19,3 +19,9 @@ Week 3
 This week I used AI to help me with my INST326 work on functions and modules. 
 It explained why splitting code into modules makes programs easier to organize and avoid duplication.
 I also used AI for my R script assignment. It showed me how to add group names, comments, and a conclusion so the file matches the rubric.
+
+Week 4
+For week 4, i used AI to help me with my INST326 class. I uploaded my week 4 leature notebook and asked AI to explain object-oriented programming,
+like how to turn a backpack into a python class with attributes and methods. I also used AI to draft my discussion borad response and make it clearer.
+For other class assignment, I would have the AI give me short answers to questions relating to men often calling themselves gamers and how the technology scetor can be more inclusive. 
+Overall, I found the AI to simplify matters and allowed me to write in an essay manner. However, I had to re-edit the answer to fit my style. 
