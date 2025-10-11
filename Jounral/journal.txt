@@ -25,3 +25,10 @@ For week 4, i used AI to help me with my INST326 class. I uploaded my week 4 lea
 like how to turn a backpack into a python class with attributes and methods. I also used AI to draft my discussion borad response and make it clearer.
 For other class assignment, I would have the AI give me short answers to questions relating to men often calling themselves gamers and how the technology scetor can be more inclusive. 
 Overall, I found the AI to simplify matters and allowed me to write in an essay manner. However, I had to re-edit the answer to fit my style. 
+
+Week 5 
+This week I turned to AI for my INST326 assignment. It was all about classes and that object-oriented programming stuff. I had it break down encapsulation versus inheritance with some basic examples. 
+The short explanations and code snippets really cleared things up for me. Then there was checking my Python code for those little bugs. Like when that AssertionError popped up.
+AI pointed out the issue in my preview method. It walked me through why the function wasnt returning what it should. And it showed the fix step by step. 
+In my other class I got AI to sum up this reading on ethics in data analysis. Helped me redo my responses in plain words too. Made everything way easier to follow. 
+All in all AI cut down the stress this week. It wasnt just handing over answers. You know it laid out the why behind stuff. So I actually picked up better coding and writing habits.
