@@ -32,3 +32,8 @@ The short explanations and code snippets really cleared things up for me. Then t
 AI pointed out the issue in my preview method. It walked me through why the function wasnt returning what it should. And it showed the fix step by step. 
 In my other class I got AI to sum up this reading on ethics in data analysis. Helped me redo my responses in plain words too. Made everything way easier to follow. 
 All in all AI cut down the stress this week. It wasnt just handing over answers. You know it laid out the why behind stuff. So I actually picked up better coding and writing habits.
+
+Week 6 
+This week I benefit myself of AI's assistance in understanding object-oriented programming. It clarified the points of classes, objects, and methods and provided me with examples through simple code. 
+I got to know constructors and the reason for using self in class methods. AI was also there for me to correct minor mistakes in my code and greatly facilitated my comprehension of encapsulation and inheritance. 
+In general, the AI reduced my confusion regarding the subject and quickened my learning process.
