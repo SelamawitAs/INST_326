@@ -43,3 +43,10 @@ During this week, I employed AI tools like ChatGPT to be my guide in comprehendi
 From the topics like try/except blocks, custom exceptions, and unit testing with the unittest framework, I requested simple explanations.
 AI helped me rewrite my class notes into clear summaries and short examples, like creating a ContainerTooLargeError class and testing it with assertRaises(). 
 Using AI made it easier to connect coding practice with theory. I learned that writing tests isn’t just about finding bugs it also documents how my functions are supposed to behave.
+
+Week 8 
+During the past week, I employed AI to clarify inheritance concepts from my Week 8 class notes. It demonstrated that subclasses can reuse the properties and functions of the parent classes which is quite helpful and not tedious. 
+Additionally, I learned how to use super() to invoke the parent's constructor while overlapped methods.
+AI also was a great help in correcting a tiny mistake in my code when my child class was not displaying the parent's attributes correctly.
+It revealed that the problem was due to my indentation being wrong and a method being misspelled. 
+In general, AI made the whole process of learning inheritance very clear and it was a great help in connecting the theory with my code.
