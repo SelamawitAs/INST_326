@@ -50,3 +50,10 @@ Additionally, I learned how to use super() to invoke the parent's constructor wh
 AI also was a great help in correcting a tiny mistake in my code when my child class was not displaying the parent's attributes correctly.
 It revealed that the problem was due to my indentation being wrong and a method being misspelled. 
 In general, AI made the whole process of learning inheritance very clear and it was a great help in connecting the theory with my code.
+
+Week 9
+This week, I used AI to better understand abstract base classes and how they work as “team contracts” for Project 3. 
+I asked AI to explain the difference between behavior-based hierarchies and just changing data, which helped me see when I should create subclasses versus just use attributes.
+It also walked me through examples of abstract methods and abstract properties, and how a manager class can use polymorphism to work with different subclasses like Book or Journal. 
+I used AI to sketch a rough ABC design for my own project and to think about which methods should be abstract and which could be concrete and shared. 
+Overall, AI made the architecture and planning part of Week 9 feel less overwhelming and helped me feel more prepared to coordinate with my team on Project 3.
