@@ -57,3 +57,8 @@ I asked AI to explain the difference between behavior-based hierarchies and just
 It also walked me through examples of abstract methods and abstract properties, and how a manager class can use polymorphism to work with different subclasses like Book or Journal. 
 I used AI to sketch a rough ABC design for my own project and to think about which methods should be abstract and which could be concrete and shared. 
 Overall, AI made the architecture and planning part of Week 9 feel less overwhelming and helped me feel more prepared to coordinate with my team on Project 3.
+
+Week 10
+This week I used AI to help me understand the difference between composition and inheritance from the Week 10 lecture.
+I asked AI to explain when to use a HAS-A relationship instead of an IS-A relationship and used those explanations to finish my discussion post. 
+I also used AI to clarify the instructions for this journal assignment and make sure my entry was formatted correctly.
