@@ -68,3 +68,8 @@ This week I used AI to help me understand the Week 12 lecture on testing and ref
 AI explained the difference between unit, integration, and system tests in simple terms and helped me connect the examples from the lecture to how I should write tests for Project 4. 
 I also asked AI to clarify what refactoring means and why tests make it safer.
 Overall, AI helped me understand how the testing levels fit together and how to apply them in my project.
+
+Week 13 
+In this week I used AI to help me reflect on the overall theme of the course rather than a specific coding task. 
+The lecture focused on patterns and how concepts like OOP are really about learning how to recognize and manage complexity. 
+AI helped me put this idea into simple words and connect what we learned in coding to Information Science. 
